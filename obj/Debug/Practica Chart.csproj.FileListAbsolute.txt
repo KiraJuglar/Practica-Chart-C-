@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\Practica Chart\bin\Debug\Practica Chart.exe.config
+C:\Users\danie\source\repos\Practica Chart\bin\Debug\Practica Chart.exe
+C:\Users\danie\source\repos\Practica Chart\bin\Debug\Practica Chart.pdb
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica Chart.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica_Chart.Form1.resources
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica_Chart.Properties.Resources.resources
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica Chart.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica Chart.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica Chart.exe
+C:\Users\danie\source\repos\Practica Chart\obj\Debug\Practica Chart.pdb
